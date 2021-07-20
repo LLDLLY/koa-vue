@@ -1110,9 +1110,9 @@ unpipe@1.0.0:
   integrity sha1-sr9O6FFKrmFltIF4KdIbLvSZBOw=
 
 urijs@^1.19.0:
-  version "1.19.3"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.3.tgz#f8d601ae3e68c2126ea45894eb18a93cc6afa561"
-  integrity sha512-Kuh0CMvOiSbq6aDlcuhUobc4q/uHx3NsKTAU9s5VxTgK8jlkauPhr6LtoxHqP+W8p/CV+xprjLb9vwN2YQxtXQ==
+  version "1.19.7"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.7.tgz#4f594e59113928fea63c00ce688fb395b1168ab9"
+  integrity sha512-Id+IKjdU0Hx+7Zx717jwLPsPeUqz7rAtuVBRLLs+qn+J2nf9NGITWVCxcijgYxBqe83C7sqsQPs6H1pyz3x9gA==
 
 util-deprecate@~1.0.1:
   version "1.0.2"
